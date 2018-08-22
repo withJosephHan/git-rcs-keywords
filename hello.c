@@ -5,6 +5,14 @@
  * @version	@ $Revision$
  *
  * $Id$
+
+@Id $Id$
+@Date $Date$
+@File $File$
+@Author $Author$
+@Revision $Revision$
+@Source $Source$
+
  */
 
 
