@@ -6,4 +6,4 @@
 *.cc filter=rcs-keywords
 *.m filter=rcs-keywords
 *.mm filter=rcs-keywords
-hello.c filter=rcs-keyword
+hello.c filter=rcs-keywords
